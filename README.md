@@ -10,7 +10,6 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 - 🧠 Intelligent win/loss logic
 - 🔁 Multiple rounds support
 - 🧮 Score tracking
-- 💬 Clean and interactive command-line interface
 
 ---
 
@@ -25,8 +24,7 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 
 ## 📷 Screenshot
 
-![snake-water-gun-screenshot](./screenshot.png)  
-*Add a screenshot of your game running here*
+![snake-water-gun-screenshot](./image.png)  
 
 ---
 
@@ -49,11 +47,10 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 
 - Random module
 
-- CLI (Command Line Interface)
-
 ---
 
 ## 💡 Future Improvements
+
 - GUI version using Tkinter or PyGame
 
 - Score history/log file
@@ -63,11 +60,13 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 ---
 
 ## 📄 License
+
 This project is licensed under the MIT License.
 
 ---
 
 ## 🙌 Acknowledgements
+
 Inspired by the classic game "Rock Paper Scissors" and adapted with a creative twist for Python practice.
 
 ---
