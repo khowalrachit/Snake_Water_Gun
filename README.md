@@ -32,7 +32,7 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/snake-water-gun.git
+   git clone https://github.com/khowalrachit/Snake_Water_Gun.git
    cd snake-water-gun
 2. **Run the game:**:
    ```bash
