@@ -28,19 +28,6 @@ A fun twist on the classic **Rock Paper Scissors**, this command-line Python gam
 
 ---
 
-## ▶️ How to Play
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/khowalrachit/Snake_Water_Gun.git
-   cd snake-water-gun
-2. **Run the game:**:
-   ```bash
-   python game.py
-3. **Follow the on-screen instructions and have fun!**:
-
----
-
 ## 🧠 Technologies Used
 
 - Python 3.x
